@@ -39,7 +39,7 @@ a{
 </p>
 <p>EMAIL : 17831783andy@gmail.com</p>
 <p>PHONE : 0968-679-232</p>
-<marquee behavior="alternate"><a href="https://kuo-chia-yuan.github.io/personal blog/">recursion</a></marquee>
+<marquee behavior="alternate"><a href="https://kuo-chia-yuan.github.io/personal-blog/">recursion</a></marquee>
 
 <script language="JavaScript">
 function ShowTime(){
