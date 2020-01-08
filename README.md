@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: maroon;
+  text-align: left;
+  link: teal;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: yellow;
+    font-family:標楷體;
+    text-align: left;
+}
+</style>
+<head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/Kuo-chia-yuan/personal-blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h1>Andy Kuo</h1>
+<hr>
+<img src="1.jpg" alt="Avatar" style="width:300px" align="center">
+<p>NAME : 郭珈源</p>
+<p>CONSTELLATION : Taurus</p>
+<p>STUDY : 
+<ul>
+  <li>桃園市振聲國中</li>
+  <li>桃園市陽明高中</li>
+  <li>新竹市清華大學 (資工23)</li>
+</ul>
+</p>
+<p>INTEREST : 
+<ol>
+       <li>游泳</li>
+       <li>健身</li>
+       <li>只要遠離原文書就好</li>
+</ol> 
+</p>
+<p>EMAIL : 17831783andy@gmail.com</p>
+<p>PHONE : 0968-679-232</p>
+<marquee behavior="alternate"><a href="https://kuo-chia-yuan.github.io/My-Blog/">recursion</a></marquee>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kuo-chia-yuan/personal-blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script language="JavaScript">
+function ShowTime(){
+　document.getElementById('showbox').innerHTML = new Date();
+　setTimeout('ShowTime()',1000);
+}
+</script>
+<body onload="ShowTime()">
+<div onclick="ChangeColor('white')" style="background-color: gray; border:3px double; width:150px;height:70px;float:right;">
+<div id="showbox"></div>
