@@ -25,7 +25,6 @@ a{
 <p>GENDER : Boy</p>
 <p>CONSTELLATION : Taurus</p>
 <p>GRADE : 資工系23級</p>
-<p>HOME : Taoyuan</p>
 <p>INTEREST : 
 <ol>
        <li>游泳</li>
@@ -41,6 +40,7 @@ a{
   <li>桃園市北門國小</li>
 </ul>
 </p>
+<p>HOME : Taoyuan</p>
 <p>EMAIL : 17831783andy@gmail.com</p>
 <p>PHONE : 0968-679-232</p>
 <marquee behavior="alternate"><a href="https://kuo-chia-yuan.github.io/Personal_Blog/">surprise</a></marquee>
