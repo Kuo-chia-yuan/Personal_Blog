@@ -43,25 +43,8 @@ a{
 <p><font color="teal" size="5"><b>HOME</b></font> : Taoyuan</p>
 <p><font color="teal" size="5"><b>EMAIL</b></font> : 17831783andy@gmail.com</p>
 <p><font color="teal" size="5"><b>PHONE</b></font> : 0968-679-232</p>
-<marquee scrollamount="50"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
-<br>
-<marquee scrollamount="45"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
-<br>
-<marquee scrollamount="40"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
-<br>
-<marquee scrollamount="35"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
-<br>
-<marquee scrollamount="30"><a href="https://kuo-chia-yuan.github.io/Personal_Blog/"><B><font color="gray" size="4"><b>surprise</b></font></a></marquee>
-<br>
-<marquee scrollamount="25"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
-<br>
-<marquee scrollamount="20"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
-<br>
-<marquee scrollamount="15"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
-<br>
-<marquee scrollamount="10"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
-<br>
-<marquee scrollamount="5"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+
+<marquee scrollamount="100"><a href="https://kuo-chia-yuan.github.io/Personal_Blog/"><B><font color="gray" size="10"><b>surprise</b></font></a></marquee>
 
 
 <script language="JavaScript">
