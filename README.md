@@ -33,9 +33,10 @@ a{
 </p>
 <p>STUDY : 
 <ul>
-  <li>桃園市振聲國中</li>
-  <li>桃園市陽明高中</li>
   <li>新竹市清華大學 (資工23)</li>
+  <li>桃園市陽明高中</li>
+  <li>桃園市振聲國中</li>
+  <li>桃園市北門國小</li>
 </ul>
 </p>
 <p>EMAIL : 17831783andy@gmail.com</p>
