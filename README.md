@@ -20,7 +20,7 @@ a{
 
 <h1><font face="Arial" size="7">Andy Kuo</font></h1>
 <hr>
-<img src="1.jpg" alt="Avatar" style="width:100px" align="center">
+<img src="1.jpg" alt="Avatar" style="width:500px" align="center">
 <p><font color="teal" size="5"><b>NAME</b></font> : 郭珈源</p>
 <p><font color="teal" size="5"><b>GENDER</b></font> : Boy</p>
 <p><font color="teal" size="5"><b>CONSTELLATION</b></font> : Taurus</p>
@@ -44,14 +44,23 @@ a{
 <p><font color="teal" size="5"><b>EMAIL</b></font> : 17831783andy@gmail.com</p>
 <p><font color="teal" size="5"><b>PHONE</b></font> : 0968-679-232</p>
 <marquee scrollamount="10"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<br>
 <marquee scrollamount="20"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<br>
 <marquee scrollamount="30"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<br>
 <marquee scrollamount="50"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<br>
 <marquee scrollamount="40"><a href="https://kuo-chia-yuan.github.io/Personal_Blog/"><B><font color="gray" size="4"><b>surprise</b></font></a></marquee>
+<br>
 <marquee scrollamount="60"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<br>
 <marquee scrollamount="70"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<br>
 <marquee scrollamount="80"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<br>
 <marquee scrollamount="90"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<br>
 <marquee scrollamount="100"><B><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
 
 
