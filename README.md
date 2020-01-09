@@ -43,6 +43,7 @@ a{
 <p><font color="teal" size="5"><b>HOME</b></font> : Taoyuan</p>
 <p><font color="teal" size="5"><b>EMAIL</b></font> : 17831783andy@gmail.com</p>
 <p><font color="teal" size="5"><b>PHONE</b></font> : 0968-679-232</p>
+<p><font color="red" size="4"><b>HINT</b></font> : First, identify the real link and aim it.Then don't move your mouse and click the real link quickly.</p>
 
 <marquee scrollamount="10"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
 <br>
@@ -60,7 +61,6 @@ a{
 <br>
 <marquee scrollamount="80"><font color="gray" size="8"><b><u>Bất ngờ</u></b></font></marquee>
 <br>
-<p><font color="red" size="4"><b>HINT</b></font> : First, identify the real link and aim it.Then don't move your mouse and click the real link quickly.</p>
 
 
 <script language="JavaScript">
