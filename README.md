@@ -60,6 +60,7 @@ a{
 <br>
 <marquee scrollamount="80"><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
 <br>
+<p><font color="red" size="4"><b>HINT</b></font> : Don't move your mouse and click the real link quickly.</p>
 
 
 <script language="JavaScript">
