@@ -46,19 +46,19 @@ a{
 
 <marquee scrollamount="10"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
 <br>
-<marquee scrollamount="20"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="20"><font color="gray" size="8"><b><u>驚喜</u></b></font></marquee>
 <br>
-<marquee scrollamount="30"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="30"><font color="gray" size="8"><b><u>サプライズ</u></b></font></marquee>
 <br>
-<marquee scrollamount="40"><a href="https://kuo-chia-yuan.github.io/Personal_Blog/"><font color="gray" size="8"><b>surprise</b></font></a></marquee>
+<marquee scrollamount="40"><a href="https://www.youtube.com/watch?v=DT2X5b0tyDI"><font color="gray" size="8"><b>놀람</b></font></a></marquee>
 <br>
-<marquee scrollamount="50"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="50"><font color="gray" size="8"><b><u>Sorpresa</u></b></font></marquee>
 <br>
-<marquee scrollamount="60"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="60"><font color="gray" size="8"><b><u>piacevolmente sorpresi</u></b></font></marquee>
 <br>
-<marquee scrollamount="70"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="70"><font color="gray" size="8"><b><u>惊喜</u></b></font></marquee>
 <br>
-<marquee scrollamount="80"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="80"><font color="gray" size="8"><b><u>Bất ngờ</u></b></font></marquee>
 <br>
 <p><font color="red" size="4"><b>HINT</b></font> : First, identify the real link and aim it.Then don't move your mouse and click the real link quickly.</p>
 
