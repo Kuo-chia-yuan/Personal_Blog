@@ -44,21 +44,21 @@ a{
 <p><font color="teal" size="5"><b>EMAIL</b></font> : 17831783andy@gmail.com</p>
 <p><font color="teal" size="5"><b>PHONE</b></font> : 0968-679-232</p>
 
-<marquee scrollamount="10"><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="10"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
 <br>
-<marquee scrollamount="20"><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="20"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
 <br>
-<marquee scrollamount="30"><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="30"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
 <br>
-<marquee scrollamount="40"><a href="https://kuo-chia-yuan.github.io/Personal_Blog/"><font color="gray" size="4"><b>surprise</b></font></a></marquee>
+<marquee scrollamount="40"><a href="https://kuo-chia-yuan.github.io/Personal_Blog/"><font color="gray" size="8"><b>surprise</b></font></a></marquee>
 <br>
-<marquee scrollamount="50"><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="50"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
 <br>
-<marquee scrollamount="60"><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="60"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
 <br>
-<marquee scrollamount="70"><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="70"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
 <br>
-<marquee scrollamount="80"><font color="gray" size="4"><b><u>surprise</u></b></font></marquee>
+<marquee scrollamount="80"><font color="gray" size="8"><b><u>surprise</u></b></font></marquee>
 <br>
 <p><font color="red" size="4"><b>HINT</b></font> : First, identify the real link and aim it.Then don't move your mouse and click the real link quickly.</p>
 
