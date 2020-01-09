@@ -22,6 +22,7 @@ a{
 <hr>
 <img src="1.jpg" alt="Avatar" style="width:400px" align="center">
 <p>NAME : 郭珈源</p>
+<p>GENDER : Boy</p>
 <p>CONSTELLATION : Taurus</p>
 <p>HOME : Taoyuan</p>
 <p>INTEREST : 
