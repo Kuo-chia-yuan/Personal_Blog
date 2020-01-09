@@ -22,7 +22,7 @@ a{
 <hr>
 <img src="1.jpg" alt="Avatar" style="width:500px" align="center">
 <p><font color="teal" size="5"><b>NAME</b></font> : 郭珈源</p>
-<p><font color="teal" size="5"><b>GENDER</b></font> : Boy</p>
+<p><font color="teal" size="5"><b>GENDER</b></font> : Ｍale</p>
 <p><font color="teal" size="5"><b>CONSTELLATION</b></font> : Taurus</p>
 <p><font color="teal" size="5"><b>GRADE</b></font> : 資工系23級</p>
 <p><font color="teal" size="5"><b>INTEREST</b></font> : 
