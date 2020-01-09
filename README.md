@@ -24,6 +24,7 @@ a{
 <p>NAME : 郭珈源</p>
 <p>GENDER : Boy</p>
 <p>CONSTELLATION : Taurus</p>
+<p>GRADE : 資工系23級</p>
 <p>HOME : Taoyuan</p>
 <p>INTEREST : 
 <ol>
@@ -34,7 +35,7 @@ a{
 </p>
 <p>STUDY : 
 <ul>
-  <li>新竹市清華大學 (資工23)</li>
+  <li>新竹市清華大學</li>
   <li>桃園市陽明高中</li>
   <li>桃園市振聲國中</li>
   <li>桃園市北門國小</li>
