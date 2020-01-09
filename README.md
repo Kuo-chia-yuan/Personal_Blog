@@ -44,7 +44,7 @@ a{
 <p><font color="teal" size="5"><b>EMAIL</b></font> : 17831783andy@gmail.com</p>
 <p><font color="teal" size="5"><b>PHONE</b></font> : 0968-679-232</p>
 
-<marquee scrollamount="100"><a href="https://kuo-chia-yuan.github.io/Personal_Blog/"><B><font color="gray" size="10"><b>surprise</b></font></a></marquee>
+<marquee scrollamount="100"><a href="https://kuo-chia-yuan.github.io/Personal_Blog/"><font color="gray" size="10"><b>surprise</b></font></a></marquee>
 
 
 <script language="JavaScript">
