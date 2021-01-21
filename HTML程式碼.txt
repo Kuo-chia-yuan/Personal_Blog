@@ -20,7 +20,7 @@ a{
 
 <h1><font face="Arial" size="7">Andy Kuo</font></h1>
 <hr>
-<img src="1(2).jpg" alt="Avatar" style="width:500px" align="center">
+<img src="picture.png" alt="Avatar" style="width:500px" align="center">
 <p><font color="teal" size="5"><b>NAME</b></font> : 郭珈源</p>
 <p><font color="teal" size="5"><b>GENDER</b></font> : Ｍale</p>
 <p><font color="teal" size="5"><b>CONSTELLATION</b></font> : Taurus</p>
